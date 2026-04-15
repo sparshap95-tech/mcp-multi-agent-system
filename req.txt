@@ -1,0 +1,4 @@
+requests
+fastmcp
+wikipedia
+streamlit
